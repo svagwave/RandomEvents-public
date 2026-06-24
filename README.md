@@ -1,2 +1,2 @@
-# RandomEvents-public
-Plugin for minecraft with random events!
+# RandomEvents
+Плагин который развеселит всех игроков на сервере)
